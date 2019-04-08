@@ -1,3 +1,5 @@
+** This is in progress and incomplete. Should be finished this month (April 2019) **
+
 # rsi
 Tools to continue being a coder when typing causes hand pain (and RSI survival tips)
 
