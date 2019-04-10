@@ -30,9 +30,11 @@ Using the Wacom Intuos brand is required. Not only are their tablets of high qua
 
 I use two models that both work well. You can choose whichever works best for you.
 
-### Intuos Drawing Tablet (Small) 
+### Intuos Wireless Drawing Tablet (Small) 
 
-$70 from Best Buy - [link](https://www.bestbuy.com/site/wacom-intuos-drawing-tablet-small-with-3-bonus-software-included-black/6196636.p?skuId=6196636)
+$80 from Best Buy - [link](https://www.bestbuy.com/site/wacom-intuos-wireless-graphic-tablet-small-with-3-bonus-software-included-black/6196634.p?skuId=6196634)
+
+This version works wired or wireless via Bluetooth. If you don't mind having it always connected to USB, the wired-only version is $10 cheaper.
 
 Be sure to buy the latest version as some retailers still sell an older version.
 
