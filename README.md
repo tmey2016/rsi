@@ -12,19 +12,25 @@ Therefore, my last 4 years have been spent looking for alternatives so I can con
 
 **I have discovered the optimum combination of tools that have allowed me to continue to code efficiently without stressing my fingers. I am making this public so that others in a similar situation may use it and have hope and success.**
 
-## The Solution
+## The Solution, in brief
 
-1. Wacom Intuos pen tablet with customized buttons* (US$70)
-1. Windows 10 Touch Keyboard in Mobile configuration (a touch screen is NOT required)
-1. AutoHotKey script*
+Use a pen tablet for all mouse and keyboard input. Pen input is low impact on your hands, and a tablet, unlike a touch screen, can be used comfortably resting your hand on your desk while keeping your display at eye level. A floating software keyboard is used to enter keystrokes. 
+
+Key combinations use a single pen button in combination with the software keyboard. For example, press Ctrl-C (copy) by holding the pen button while pointing to the letter C on the software keyboard and touching the pen to the tablet. As you might expect, undo is Z, paste is V, etc. What each letter does is up to you: I have Q type Tab, M type ->, and L presses the End key then types a semicolon.
+
+The same pen button (always beneath your thumb) also turns a click into right-click. The only time you move your thumb off this button is to scroll (mouse wheel): for that, hold the second pen button and drag the pen tip across the tablet.
+
+## Watch the video
+
+Here is a video of me writing code with this solution: TODO
+
+## Technical Components
+
+1. Wacom Intuos or Intuos Pro pen tablet with customized buttons* (US$70)
+1. Windows 10 (Home or Professional) built-in Touch Keyboard in Mobile configuration (a touch screen is NOT required)
+1. AutoHotKey script* (version 1.1 or later, free download)
 
 * all configuration files are included here - see below
-
-## Requirements
-
-1. Windows 10 (Home or Professional)
-1. Wacom tablet (Intuos or Intuos Pro)
-1. AutoHotKey (version 1.1 or later, free download)
 
 ## Wacom tablet
 
@@ -40,7 +46,7 @@ This version works wired or wireless via Bluetooth. If you don't mind having it 
 
 Be sure to buy the latest version as some retailers still sell an older version.
 
-After installing the Wacom software, use the Wacom Desktop Center software to restore from backup the required customization for this solution.
+After installing the Wacom software, use the Wacom Desktop Center software to restore from backup the required customization for this solution. TODO
 
 ### Intuos Pro Medium
 
@@ -48,7 +54,11 @@ This one is $330, much more expensive than the other option. In my use, the only
 
 ## AutoHotKey
 
-This is the software that
+This is the software that translates your pen touches into customizable mouse and key combinations that make it possible to efficiently replace your keyboard use. 
+
+1. Install Autohotkey from https://www.autohotkey.com/
+1. Download my autohotkey-rsi.ahk file which contains all of the customized mouse and key combinations. 
+1. Right-click the .ahk file and choose Edit to see and make changes to all of the customizations.
 
 ## Touch Keyboard
 
@@ -62,11 +72,12 @@ Beside the layout button, there is a microphone button. Click it to dictate phra
 
 ## Software Suggestions
 1. Microsoft Edge is the only browser to support swiping and word suggestions on the touch keyboard (as of April 2019). Use Edge for any website that involves typing words.
-1. Use an advanced IDE such as Jetbrains. This will provide great auto-completion of variable and function names.
+1. Use an advanced IDE such as Jetbrains. This will provide great auto-completion of variables, function names, parentheses and braces. 
 
 ## Other Suggestions
 
 1. Consult medical professionals. Each situation is different.
 1. If typing is causing you pain, stop typing as soon as possible. Do not cause further damage.
-1. Hide your physical keyboard: unplug in or throw a towel over it. Otherwise you will be easily tempted to use it is
+1. Hide your physical keyboard: unplug in or throw a towel over it. Otherwise you will be easily tempted to use it.
 1. Grip the pen loosely using fingers that bother you least.
+
