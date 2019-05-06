@@ -64,7 +64,7 @@ This is the software that translates your pen touches into customizable mouse an
 1. Install Autohotkey from https://www.autohotkey.com/
 1. Download [my autohotkey-rsi.ahk file](https://raw.githubusercontent.com/tmey2016/rsi/master/autohotkey-rsi.ahk) which contains all of the customized mouse and key combinations. 
 1. Right-click the .ahk file and choose Edit to see and make changes to all of the customizations. Comments within that file explain each key combination.
-1. Double-click the .ahk file to run the key substitutions. Follow [these instructions](https://autohotkey.com/docs/FAQ.htm#Startup) to run it every time your computer starts up.
+1. Double-click the .ahk file to start. Follow [these instructions](https://autohotkey.com/docs/FAQ.htm#Startup) to start it every time your computer starts up.
 
 ## Touch Keyboard
 
