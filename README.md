@@ -1,4 +1,4 @@
-# A solution to continue being a coder when typing causes hand pain
+# A solution to continue coding when typing causes hand pain
 
 ## My History
 In December 2014, after 23 years of heavy computer use as a software engineer, I started having severe pain in my finger joints. Since then, I cannot type for an extended period of time without causing pain for days later. Medical procedures have been unfruitful and it is supposed to be arthritis caused by repetitive stress (RSI). 
