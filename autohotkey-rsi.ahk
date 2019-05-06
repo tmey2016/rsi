@@ -149,3 +149,11 @@ return
 
 ; right-alt key types an F17. this allows you to type an F17 into the wacom app for configuration
 RAlt::F17
+
+; 4 physical buttons on the Wacom tablet
+; these buttons can be used in combinations with themselves and the touch keyboard
+; holding the left-most button (shift) will type upper case letters on the touch keyboard
+F13::LShift
+F14::LCtrl
+F15::LAlt
+F16::LWin
