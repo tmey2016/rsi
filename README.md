@@ -1,22 +1,17 @@
-** This is in progress and incomplete. Should be finished this month (May 2019) **
-
-# Write Code without using a Keyboard
-
-## What is this?
-Tools to continue being a coder when typing causes hand pain (and RSI survival tips)
+# A solution to continue being a coder when typing causes hand pain
 
 ## My History
-In December 2014, after 23 years of heavy computer use as a software engineer, I started having severe pain in my finger joints. Since then, I cannot type for an extended period of time without causing pain for days later. Medical procedures have been unfruitful and it is supposed to be arthritis caused by repetitive stress. 
+In December 2014, after 23 years of heavy computer use as a software engineer, I started having severe pain in my finger joints. Since then, I cannot type for an extended period of time without causing pain for days later. Medical procedures have been unfruitful and it is supposed to be arthritis caused by repetitive stress (RSI). 
 
-Therefore, my last 4 years have been spent looking for alternatives so I can continue my career writing code. I have tried countless hardware and software solutions including keyboards, pens, speech, and touch.
+Therefore, my last 4+ years have been spent looking for alternatives so I can continue my career writing code. I have tried countless hardware and software solutions including keyboards, pens, speech, and touch.
 
-**I have discovered the optimum combination of tools that have allowed me to continue to code efficiently without stressing my fingers. I am making this public so that others in a similar situation may use it and have hope and success.**
+**I have discovered the optimum combination of tools that have allowed me to continue to code efficiently without stressing my fingers. I am sharing this so that others in a similar situation may use it and have hope and success.**
 
 ## The Solution, in brief
 
 Use a pen tablet for all mouse and keyboard input. Pen input is low impact on your hands, and a tablet, unlike a touch screen, can be used comfortably resting your hand on your desk while keeping your display at eye level. A floating software keyboard is used to enter keystrokes. 
 
-Key combinations use a single pen button in combination with the software keyboard. For example, press Ctrl-C (copy) by holding the pen button while pointing to the letter C on the software keyboard and touching the pen to the tablet. As you might expect, undo is Z, paste is V, etc. What each letter does is up to you: I have Q type Tab, M type ->, and L presses the End key then types a semicolon.
+Key combinations use a single pen button in combination with the software keyboard. For example, press Ctrl-C (copy) by holding the pen button while pointing to the letter C on the software keyboard and touching the pen to the tablet. As you might expect, undo is Z, paste is V, etc. What each letter does is up to you: I have Q type Tab, M type ->, and L press the End key then type a semicolon.
 
 The same pen button (always beneath your thumb) also turns a click into right-click. The only time you move your thumb off this button is to scroll (mouse wheel): for that, hold the second pen button and drag the pen tip across the tablet.
 
@@ -30,7 +25,7 @@ Here is a video of me writing code with this solution: TODO
 1. Windows 10 (Home or Professional) built-in Touch Keyboard in Mobile configuration (a touch screen is NOT required)
 1. AutoHotKey script* (version 1.1 or later, free download)
 
-* all configuration files are included here - see below
+\* all configuration files are included here - see below
 
 ## Wacom tablet
 
@@ -53,7 +48,7 @@ Here are the important settings:
 
 $80 from Best Buy - [link](https://www.bestbuy.com/site/wacom-intuos-wireless-graphic-tablet-small-with-3-bonus-software-included-black/6196634.p?skuId=6196634)
 
-This version works wired or wireless via Bluetooth. If you don't mind having it always connected to USB, the wired-only version is $10 cheaper.
+This version works wired or wireless via Bluetooth. If you don't mind having it always connected to USB, the wired-only version is $10 cheaper. I occasionally experience pointer lag when using Bluetooth, but not with the USB connection.
 
 Be sure to buy the latest version as some retailers still sell an older version.
 
