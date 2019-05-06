@@ -1,4 +1,4 @@
-** This is in progress and incomplete. Should be finished this month (April 2019) **
+** This is in progress and incomplete. Should be finished this month (May 2019) **
 
 # Write Code without using a Keyboard
 
@@ -38,6 +38,17 @@ Using the Wacom Intuos brand is required. Not only are their tablets of high qua
 
 I use two models that both work well. You can choose whichever works best for you.
 
+After installing the Wacom software, use the Wacom Desktop Center software to restore from backup the required customization for this solution which can be dowloaded [here](https://raw.githubusercontent.com/tmey2016/rsi/master/Backup.wacomprefs).
+
+Here are the important settings:
+
+1. turn off Windows Ink
+1. enable Hover Click
+1. use a smaller portion of the tablet area
+1. assign the pen buttons to F17 (our smart button) and Scroll, respectively
+1. assign the tablet buttons to F13-F17, which will work as Shift, Ctrl, Alt, and Windows keys while keeping the touch keyboard visible
+
+
 ### Intuos Wireless Drawing Tablet (Small) 
 
 $80 from Best Buy - [link](https://www.bestbuy.com/site/wacom-intuos-wireless-graphic-tablet-small-with-3-bonus-software-included-black/6196634.p?skuId=6196634)
@@ -46,7 +57,6 @@ This version works wired or wireless via Bluetooth. If you don't mind having it 
 
 Be sure to buy the latest version as some retailers still sell an older version.
 
-After installing the Wacom software, use the Wacom Desktop Center software to restore from backup the required customization for this solution. TODO
 
 ### Intuos Pro Medium
 
@@ -57,8 +67,9 @@ This one is $330, much more expensive than the other option. In my use, the only
 This is the software that translates your pen touches into customizable mouse and key combinations that make it possible to efficiently replace your keyboard use. 
 
 1. Install Autohotkey from https://www.autohotkey.com/
-1. Download my autohotkey-rsi.ahk file which contains all of the customized mouse and key combinations. 
-1. Right-click the .ahk file and choose Edit to see and make changes to all of the customizations.
+1. Download [my autohotkey-rsi.ahk file](https://raw.githubusercontent.com/tmey2016/rsi/master/autohotkey-rsi.ahk) which contains all of the customized mouse and key combinations. 
+1. Right-click the .ahk file and choose Edit to see and make changes to all of the customizations. Comments within that file explain each key combination.
+1. Double-click the .ahk file to run the key substitutions. Follow [these instructions](https://autohotkey.com/docs/FAQ.htm#Startup) to run it every time your computer starts up.
 
 ## Touch Keyboard
 
